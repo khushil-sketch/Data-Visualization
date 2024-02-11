@@ -2,6 +2,7 @@
 
 Taking a dataset containing movie information, I set out with the goal of searching for some insights and bringing them to life with some good ol' data visualization. I made sure to incorporate design principles so that that my visualization effectively conveys the infights I found.  
 
+One of the things I wanted to find out was which director had directed the most critically acclaimed movies. Below are the results of my findings followed by the various ideas I took into account when designing the graph:
 
 ![Screenshot 2024-02-10 224838](https://github.com/khushil-sketch/Data-Visualization/assets/52947378/c54e0986-42b6-474c-9626-d5be4abbd275)
 
