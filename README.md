@@ -1,4 +1,6 @@
-# Data-Visualization
+# The Art & Science of Data Visualization
+
+Taking a dataset containing movie information, I set out with the goal of searching for some insights and bringing them to life with some good ol' data visualization, incorporating design principles to ensure that the information is effectively conveyed.
 
 
 ![Screenshot 2024-02-10 224838](https://github.com/khushil-sketch/Data-Visualization/assets/52947378/c54e0986-42b6-474c-9626-d5be4abbd275)
