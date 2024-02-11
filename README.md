@@ -1,12 +1,12 @@
 # The Art & Science of Data Visualization
 
-Taking a dataset containing movie information, I set out with the goal of searching for some insights and bringing them to life with some good ol' data visualization. I made sure to incorporate design principles so that that my visualization effectively conveys the infights I found.  
+Taking a dataset containing movie information, I set out with the goal of searching for some insights and bringing them to life with some good ol' data visualization. I made sure to incorporate design principles so that my visualization effectively conveys the insights I found.  
 
 One of the things I wanted to find out was which director had directed the most critically acclaimed movies. Below are the results of my findings followed by the various ideas I took into account when designing the graph:
 
 ![Screenshot 2024-02-10 224838](https://github.com/khushil-sketch/Data-Visualization/assets/52947378/c54e0986-42b6-474c-9626-d5be4abbd275)
 
-The barplot aims to bring to attention the Directors behind some of the most highly rated films in the dataset and also to tell the audience how many highly rated films a particular person has directed.
+The barplot is designed to highlight the directors of the highest-rated films in the dataset, showcasing the number of acclaimed movies each has directed
 
 The reason I chose a bar chart is that effective designs turn thinking principles into seeing principles- I wanted my audience to realize the excellence of a director by showing them how many top-rated films a certain individual has directed. Additionally, length is an effective channel to compare ordered attributes, hence I encoded my film_count data in bars.
 
